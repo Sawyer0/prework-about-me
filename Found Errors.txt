@@ -1,0 +1,9 @@
+Boo the fan page header was too small	
+Paragrpahs inside box wasnt aligned correctly	
+Wiki link didnt work
+Picture of dog didnt work
+Buttons didnt work
+Improper syntax in code
+No proper indentations in code
+No notes in JS
+No list of boos fav things
